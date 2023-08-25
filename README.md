@@ -26,7 +26,9 @@ Model Training and Evaluation:
 
 The script trains various machine learning models, including Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Trees, Random Forests, Naive Bayes, and Support Vector Machines, using k-fold cross-validation (10-fold).
 ![image](https://github.com/PranavBhanot/Plant-Disease-detection/assets/74693658/8c5714d6-c60b-4802-9be6-afe952402bb8)
-The accuracy of each model is evaluated using confusion matrices and classification reports.
+
+
+The accuracy of each model is evaluated using confusion matrices and classification reports and was found out to be a staggering 97%.
 The best-performing model (Random Forest) is trained on the entire dataset and used for making predictions on unseen data.
 Saving Model:
 
