@@ -25,6 +25,9 @@ The script saves the preprocessed and scaled feature data along with the corresp
 Model Training and Evaluation:
 
 The script trains various machine learning models, including Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Trees, Random Forests, Naive Bayes, and Support Vector Machines, using k-fold cross-validation (10-fold).
+
+
+
 ![image](https://github.com/PranavBhanot/Plant-Disease-detection/assets/74693658/8c5714d6-c60b-4802-9be6-afe952402bb8)
 
 
@@ -40,5 +43,8 @@ Model Prediction:
 
 The saved Random Forest model is loaded, and predictions are made on the test data.
 The confusion matrix, classification report, and accuracy score are computed to evaluate the model's performance on the test set.
+
+
+
 ![image](https://github.com/PranavBhanot/Plant-Disease-detection/assets/74693658/ec37e1f4-a225-4461-a067-0d386aafb72e)
 
